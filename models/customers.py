@@ -1,6 +1,6 @@
 from odoo import models, fields, api, _
 from odoo.exceptions import ValidationError
-from mudl_supermarketmain.public_class import MainClass
+from ..public_class import MainClass
 
 
 class cls_customers(models.Model):

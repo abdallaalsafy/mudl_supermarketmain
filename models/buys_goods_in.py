@@ -1,6 +1,5 @@
 from odoo import models, fields, api, _
-from odoo.exceptions import ValidationError
-from odoo.public_class import MainClass
+
 
 
 class cls_buys_goods_in(models.Model):

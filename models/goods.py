@@ -1,6 +1,6 @@
 from odoo import models, fields, api, _, tools
 from odoo.exceptions import ValidationError
-from odoo.public_class import MainClass
+from ..public_class import MainClass
 
 
 class cls_goods(models.Model):
